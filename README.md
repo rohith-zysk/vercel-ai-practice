@@ -26,7 +26,7 @@ npm run dev
 
 **Client:** React, TailwindCSS, ShadcnUI
 
-**Server:** React Server Actions, Vercel AI ai/core
+**Server:** React Server Actions, Vercel AI ai/core, Vercel AI ai/rsc
 
 ## Examples -> Streaming React Component
 
